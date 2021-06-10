@@ -195,3 +195,81 @@
     width: 12%;
     margin-right: 3px;
 }
+.testimonial-section{
+    margin: 50px 0;
+}
+.testimonial-container{
+    width: 60%;
+    margin:auto;
+    padding-top: 25px;
+    padding-bottom: 25px;   
+}
+.testimonial-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.testimonial-content img{
+    width: 50%;
+    margin: 0 50px;
+}
+.testimonial-content p{
+    text-align: justify;
+    font-size: 18px;
+    color: #3a3a3a;
+}
+.testimonial h1{
+    text-align: center;
+    font-size: 32px;
+    margin: 25px 0;
+}
+.footer-section{
+    background-color: black;
+    color: white;
+}
+.footer-content{
+    display: flex;
+    flex-direction: row;
+}
+.footer-part{
+    margin: 0 10px;
+    width: 100%;
+    margin: 0 25px;
+    padding: 25px 20px;
+    text-align: center;
+}
+#message{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 25px 0;
+}
+.footer-part ul li{
+    list-style: none;
+    font-size: 18px;
+    color: gainsboro;
+}
+.footer-part ul li:first-child{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.footer-part p{
+    width: 100%;
+    text-align: justify;
+}
+footer{
+    text-align: center;
+    color: gray;
+}
+footer a{
+    text-decoration: none;
+    color: gray;
+}
+footer a:hover{
+    color: white;
+}
+
+
+
